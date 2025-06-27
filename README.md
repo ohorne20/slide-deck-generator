@@ -1,1 +1,1 @@
-# slide-deck-generator
+# slide_deck_generator
